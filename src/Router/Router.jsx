@@ -1,6 +1,7 @@
 import { createBrowserRouter } from "react-router-dom";
 import Root from "../Layout/Root";
 import Home from "../Pages/Home";
+import HomeDetails from "../Pages/HomeDetails";
 
  
 
@@ -12,6 +13,11 @@ import Home from "../Pages/Home";
             {
                 path: '/',
                 element: <Home></Home>
+            },
+            {
+                path: '/homeDetails/:id',
+                loader:  ()=>fetch('Family.json'),
+                element:<HomeDetails></HomeDetails>
             }
         ]
     }
