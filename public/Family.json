@@ -1,0 +1,121 @@
+
+     [
+      {
+        "id": 1,
+        "estate_title": "Cozy Mountain Cabin",
+        "segment_name": "Residential",
+        "description": "A charming cabin nestled in the mountains with breathtaking views.",
+        "price": 300000,
+        "status": "sale",
+        "area": "2000 sq ft",
+        "location": "Mountain View, CO",
+        "facilities": ["Living room", "Swimming pool", "Kitchen"],
+        "view_property_button": "View Property",
+        "image": "https://i.ibb.co/ftpV9z5/1.jpg"
+      },
+      {
+        "id": 2,
+        "estate_title": "Modern City Apartment",
+        "segment_name": "Residential",
+        "description": "A stylish apartment located in the heart of the city, close to all amenities.",
+        "price": 2000,
+        "status": "rent",
+        "area": "1200 sq ft",
+        "location": "Downtown, NY",
+        "facilities": ["Living room", "Gym", "Kitchen"],
+        "view_property_button": "View Property",
+        "image": "https://i.ibb.co/S7zYsp0/2.jpg"
+      },
+      {
+        "id": 3,
+        "estate_title": "Spacious Suburban House",
+        "segment_name": "Residential",
+        "description": "A large house in a quiet suburb, perfect for families.",
+        "price": 450000,
+        "status": "sale",
+        "area": "3000 sq ft",
+        "location": "Suburbia, IL",
+        "facilities": ["Living room", "Garage", "Kitchen"],
+        "view_property_button": "View Property",
+        "image": "https://i.ibb.co/9HLYtfC/3.jpg"
+      },
+      {
+        "id": 4,
+        "estate_title": "Beachfront Villa",
+        "segment_name": "Residential",
+        "description": "A luxurious villa with direct access to the beach and stunning sea views.",
+        "price": 1200000,
+        "status": "sale",
+        "area": "3500 sq ft",
+        "location": "Malibu, CA",
+        "facilities": ["Living room", "Swimming pool", "Kitchen", "Private beach access"],
+        "view_property_button": "View Property",
+        "image": "https://i.ibb.co/xMkhLd5/4.jpg"
+      },
+      {
+        "id": 5,
+        "estate_title": "Downtown Loft",
+        "segment_name": "Residential",
+        "description": "A chic loft in the downtown area with an open floor plan and modern design.",
+        "price": 2500,
+        "status": "rent",
+        "area": "1500 sq ft",
+        "location": "Downtown, LA",
+        "facilities": ["Living room", "Rooftop access", "Kitchen"],
+        "view_property_button": "View Property",
+        "image": "https://i.ibb.co/g6mSd0m/5.jpg"
+      },
+      {
+        "id": 6,
+        "estate_title": "Country Farmhouse",
+        "segment_name": "Residential",
+        "description": "A beautiful farmhouse in the countryside with plenty of land.",
+        "price": 600000,
+        "status": "sale",
+        "area": "4000 sq ft",
+        "location": "Countryside, TX",
+        "facilities": ["Living room", "Barn", "Kitchen"],
+        "view_property_button": "View Property",
+        "image": "https://i.ibb.co/bNnRNXh/6.jpg"
+      },
+      {
+        "id": 7,
+        "estate_title": "Luxury Penthouse",
+        "segment_name": "Residential",
+        "description": "An exclusive penthouse with panoramic city views and top-notch amenities.",
+        "price": 8000,
+        "status": "rent",
+        "area": "2200 sq ft",
+        "location": "Uptown, NY",
+        "facilities": ["Living room", "Swimming pool", "Kitchen", "Gym"],
+        "view_property_button": "View Property",
+        "image": "https://i.ibb.co/8DDVWWH/7.jpg"
+      },
+      {
+        "id": 8,
+        "estate_title": "Historic Townhouse",
+        "segment_name": "Residential",
+        "description": "A beautifully restored townhouse with historical charm and modern conveniences.",
+        "price": 550000,
+        "status": "sale",
+        "area": "2500 sq ft",
+        "location": "Old Town, PA",
+        "facilities": ["Living room", "Study", "Kitchen"],
+        "view_property_button": "View Property",
+        "image": "https://i.ibb.co/C1yhT0g/8.jpg"
+      },
+      {
+        "id": 9,
+        "estate_title": "Coastal Cottage",
+        "segment_name": "Residential",
+        "description": "A cozy cottage by the coast, perfect for a peaceful retreat.",
+        "price": 1800,
+        "status": "rent",
+        "area": "1800 sq ft",
+        "location": "Coastal Town, FL",
+        "facilities": ["Living room", "Garden", "Kitchen"],
+        "view_property_button": "View Property",
+        "image": "https://i.ibb.co/mBMW38r/9.jpg"
+      }
+    ]
+  
