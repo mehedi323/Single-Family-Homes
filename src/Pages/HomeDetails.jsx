@@ -8,7 +8,7 @@ const HomeDetails = () => {
     const home = homes.find(home => home.id == idInt)
     return (
         <div> 
-        <div className="grid grid-cols-4">
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4">
             <div className="col-span-2 p-16 flex justify-center bg-gray-100">
                 <img className="w-[400px]" src={home.image} alt="" />
             </div>
